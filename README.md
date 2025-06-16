@@ -2,11 +2,10 @@
 
 **Full-Stack Web3 Developer | AI Agent Engineer | Security Architect**
 
-[Sheikh.codes](https://sheikh.codes)
-- Creator of autonomous AI tools at [likhon.org](https://likhon.org)
+- Creator of autonomous AI tools at [Likhon Razz](https://likhonsheikhbd.github.io)
 - Expert in React, Next.js, Solidity, Node.js, AI agents, and smart contracts
 
 **Connect:**  
-[Telegram](https://t.me/likhonsheikh) | [X (Twitter)](https://x.com/writesheikh?s=21) | [GitHub](https://github.com/likhon-developer)
+[Telegram](https://t.me/likhonsheikhbd) | [X (Twitter)](https://x.com/likhonsheikhbd?s=21) | [GitHub](https://github.com/likhonsheikhbd)
 
 **License:** MIT © 2025 Likhon Sheikh​​​​​​​​​​​​​​​​
